@@ -1,5 +1,5 @@
 body{
-    background: url('/images/bg.png') no-repeat center/cover;
+    background: url('images/bg.png') no-repeat center/cover;
     position: relative;
     margin:0;
     padding:0;
